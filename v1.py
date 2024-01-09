@@ -234,7 +234,7 @@ def naim2(uid,pwx,tl):
             "email":uid,
             "pass":ps,
             "login":"Log In"}
-            header_freefb = {'authority': 'p.facebook.com',
+            header_freefb = {'authority': 'mbasic.facebook.com',
            'method':'POST',
            'path':'/?tbua=1',
            'scheme':'https',          
